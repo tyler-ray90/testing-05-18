@@ -8,7 +8,8 @@ function App() {
         <h1>Hello, World</h1>
         <p>You can do this. Keep going. Dont give up!</p>
         <p>You dont give up.</p>
-        <p>Youre going places</p>
+        <p>Youre going places!</p>
+
       </header>
     </div>
   );
