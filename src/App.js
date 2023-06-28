@@ -10,7 +10,7 @@ function App() {
         <p>You dont give up.</p>
         <p>Youre going places!</p>
         <p>Keep going!</p>
-        <p>You got this</p>
+        <p>You got this.</p>
 
       </header>
     </div>
