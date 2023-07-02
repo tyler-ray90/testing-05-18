@@ -11,6 +11,7 @@ function App() {
         <p>Youre going places!</p>
         <p>Keep going!</p>
         <p>You got this!</p>
+        <p>I can do this!</p>
 
       </header>
     </div>
