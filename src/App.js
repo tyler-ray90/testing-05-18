@@ -12,6 +12,7 @@ function App() {
         <p>Keep going!</p>
         <p>You got this!</p>
         <p>I can do this!!!!</p>
+        <h2>New Title</h2>
 
       </header>
     </div>
