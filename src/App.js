@@ -13,6 +13,7 @@ function App() {
         <p>You got this!</p>
         <p>I can do this!!!!</p>
         <h2>New Title!!</h2>
+        <p>Hi</p>
 
       </header>
     </div>
