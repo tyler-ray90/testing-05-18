@@ -21,6 +21,7 @@ function App() {
         <h2>New header</h2>
         <h3>New Header</h3>
         <l>New list</l>
+        <h2>new header</h2>
 
       </header>
     </div>
