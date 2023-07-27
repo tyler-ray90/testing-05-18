@@ -26,6 +26,9 @@ function App() {
         <p>new line</p>
         <h3>Keep going</h3>
         <p>new line</p>
+        <div>
+          <p>New div</p>
+        </div>
 
       </header>
     </div>
