@@ -29,6 +29,7 @@ function App() {
         <div>
           <p>New div</p>
         </div>
+        <p>new line</p>
 
       </header>
     </div>
