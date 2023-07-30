@@ -30,6 +30,9 @@ function App() {
           <p>New div</p>
         </div>
         <p>new line</p>
+        <div>
+          <p>new div</p>
+        </div>
 
       </header>
     </div>
