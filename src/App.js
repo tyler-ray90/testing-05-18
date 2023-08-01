@@ -35,6 +35,7 @@ function App() {
         </div>
         <p>I don't give up
         </p>
+        <p>Tomorrow is a new day</p>
 
       </header>
     </div>
