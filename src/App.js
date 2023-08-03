@@ -36,7 +36,8 @@ function App() {
         <p>I don't give up
         </p>
         <p>Tomorrow is a new day</p>
-        <p>I want to give up but im here</p>
+        <p>I want to give up but im here`</p>
+        <p>I feel better today than yesterday</p>
 
       </header>
     </div>
