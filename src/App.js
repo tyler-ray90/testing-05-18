@@ -52,6 +52,7 @@ function App() {
         <p>im feeling okay today</p>
         <p>im feeling motivated today</p>
         <p>Im feeling good today</p>
+        <p>IM feeling okay today</p>
 
       </header>
     </div>
