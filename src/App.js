@@ -63,6 +63,7 @@ function App() {
         <p>im feelikng okay today</p>
         <p>I can do this</p>
         <p>im feelking okay today</p>
+        <p>im feeling hopeful today.</p>
 
       </header>
     </div>
